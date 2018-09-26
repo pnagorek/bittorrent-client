@@ -1,0 +1,23 @@
+{
+  "name": "bittorrent-client",
+  "version": "1.0.0",
+  "description": "Bittorrent client:",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnagorek/bittorrent-client.git"
+  },
+  "author": "Przemysław Nagórek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnagorek/bittorrent-client/issues"
+  },
+  "homepage": "https://github.com/pnagorek/bittorrent-client#readme",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  },
+  "dependencies": {}
+}
